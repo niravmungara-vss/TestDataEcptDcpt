@@ -1,0 +1,6 @@
+@TestDataEcptDcpt_HostAddress = http://localhost:5201
+
+GET {{TestDataEcptDcpt_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
